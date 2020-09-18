@@ -1,0 +1,106 @@
+.web_body{
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png");
+    background-repeat:no-repeat ;
+    background-size: 1100px;
+    background-position: 420px 225px;
+    font-size: 25px;
+}
+textarea{
+    background: pgoldgoldenrod;
+    border: gold;
+    border-width: 10px;
+    border-style: solid;
+    font-style: italic;
+}
+input{
+    background: pgoldgoldenrod;
+    border: gold;
+    border-width: thick;
+    border-style: solid;
+    font-style: italic;
+}
+.button{
+    background: crimson;
+    color: chartreuse;
+    font-family: cursive;
+}
+.jumbotron{background-color: #69f7fa;
+    font: larger;
+    font-size: 100px;
+    font-weight: 900;
+}
+p{
+    color: blue;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 25px;
+    font-style: oblique;
+}
+.options{
+    color: gold;
+    font-family: 'Gochi Hand', cursive;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25px;
+}
+.navbar-brand{
+    background-size: 10px;
+}
+ol{
+    color: rgb(72, 101, 235);
+    font-family: 'Special Elite', cursive;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 25px;
+}
+ul{
+    color: rgb(115, 220, 255);
+    font-family: 'Unica One', cursive;
+    font-weight: bold;
+    font-size: 25px;
+}
+h2{
+    color: blue;
+    font: normal;
+    font-style: italic;
+    font-size: 100px;
+}
+h1{
+    color: darkblue;
+    padding-block: 100px;
+    font: normal;
+    font-weight: 900;
+    font-size: 25px;
+}
+select{
+    color: lightcoral;
+}
+input{
+    color: rgb(177, 0, 0);
+}
+label{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.modal-title{
+    font: normal;
+    font-style: inherit;
+    font-size: 50px; 
+}
+.carousel{
+    width:640px;
+    height:360px;
+}
+.carousel-control-prev,
+.carousel-control-next{
+    width: 5%;
+    height: 25%;
+    background-color: rgb(78, 252, 3);
+    border-radius: 100%;
+    position: static;
+    top: 50%;
+}
+.carousel-control-prev{
+    right: 200px;
+}
+.carousel-control-next{
+    left: 530px; 
+}
